@@ -18,7 +18,7 @@ Segmentation of Lungs from Chest X-rays.
 - VirtualEnv (see Linux/Mac instructions: https://virtualenv.pypa.io/en/stable/installation/, see example Windows instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
 
 ### Output
-&emsp;&emsp;&emsp;&emsp;Predicted&nbsp;&emsp;&emsp;&emsp;&emsp;Gold Std&emsp;&emsp;&emsp;&emsp;Difference
+Format : Predicted&emsp;GoldStd&emsp;Diff
 ![alt img](./output.gif) <br>
 
 ------------------ 
