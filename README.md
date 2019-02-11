@@ -17,9 +17,13 @@ Segmentation of Lungs from Chest X-rays.
 > If you are using Windows machine, you need Python 3.6 since Tensorflow will not be able to install. We strongly recommend using your university's server or an AWS server with Linux instead. It comes with 750 hours of free computing: https://aws.amazon.com/ec2/
 - VirtualEnv (see Linux/Mac instructions: https://virtualenv.pypa.io/en/stable/installation/, see example Windows instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
 
-### Output
+# Output
 Format : Predicted&emsp;GoldStd&emsp;Diff <br>
 ![alt img](./output.gif) <br>
+
+# Further Tasks: 
+- To explore other segmentations networks like LinkNet, Mask R-CNN
+- Build an ensemble model on top of these models 
 
 ------------------ 
 ### About the data
