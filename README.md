@@ -17,8 +17,9 @@ Segmentation of Lungs from Chest X-rays.
 > If you are using Windows machine, you need Python 3.6 since Tensorflow will not be able to install. We strongly recommend using your university's server or an AWS server with Linux instead. It comes with 750 hours of free computing: https://aws.amazon.com/ec2/
 - VirtualEnv (see Linux/Mac instructions: https://virtualenv.pypa.io/en/stable/installation/, see example Windows instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
 
+### Output
+![alt img](./diff.gif) <br>
 
- 
 ------------------ 
 ### About the data
 Disclaimer: Please do not share the data set outside of your research group/organization, but forward new data set requests to Sameer Antani, project leader at National Library of Medicine of the National Institutes of Health. *
