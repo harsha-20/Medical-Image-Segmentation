@@ -7,16 +7,6 @@ Segmentation of Lungs from Chest X-rays.
 - Callbacks (e.g. DICE score)
 - Visualization
 
-# Instructions
-
-### Requirements
-- A computer with Ubuntu/Mac/Windows operating system.
-- High-speed internet access to download packages and repository
-- Python 3.6 preferably, although it works with Python 2.7. 
-> IMPORTANT!
-> If you are using Windows machine, you need Python 3.6 since Tensorflow will not be able to install. We strongly recommend using your university's server or an AWS server with Linux instead. It comes with 750 hours of free computing: https://aws.amazon.com/ec2/
-- VirtualEnv (see Linux/Mac instructions: https://virtualenv.pypa.io/en/stable/installation/, see example Windows instructions: http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
-
 # Output
 Format : Predicted&emsp;GoldStd&emsp;Diff <br>
 ![alt img](./output.gif) <br>
